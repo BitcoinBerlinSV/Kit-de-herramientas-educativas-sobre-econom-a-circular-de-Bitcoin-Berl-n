@@ -1,4 +1,6 @@
- Kit de herramientas educativas sobre economia circular de Bitcoin Berlin
+**Kit de herramientas educativas sobre economía bitcoin**
+
+
 
 Recursos educativos y de incorporación de Bitcoin de código abierto desarrollados a partir del uso real en economías circulares en Berlín y La Laguna, El Salvador.
 
