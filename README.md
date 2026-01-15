@@ -42,8 +42,7 @@ Guía sencilla y clara para usuarios primerizos de Bitcoin.
 - Comprensión básica  
 - Buenas prácticas de seguridad  
 
-**Ubicación:**  
-`onboarding/user-onboarding-guide.md`
+
 
 ---
 
@@ -51,8 +50,7 @@ Guía sencilla y clara para usuarios primerizos de Bitcoin.
 
 Notas sobre cómo se mantiene y actualiza este repositorio a lo largo del tiempo.
 
-**Ubicación:**  
-`MANTENIMIENTO.md`
+
 
 ---
 
@@ -87,5 +85,6 @@ Evita intencionalmente:
 Todo el contenido de este repositorio se publica bajo **CC0 (Dominio Público)**.
 
 **Úsalo libremente. Adáptalo a tu comunidad.**
+
 
 
