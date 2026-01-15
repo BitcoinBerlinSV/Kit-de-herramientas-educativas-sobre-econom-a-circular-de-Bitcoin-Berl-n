@@ -21,7 +21,7 @@ Los materiales aquí presentados se basan en **experiencia directa de campo** y 
 
 ## ¿Qué hay en este repositorio?
 
-### 🏪 Incorporación de comerciantes
+###  Incorporación de comerciantes
 
 Guía paso a paso para incorporar empresas que acepten pagos con Bitcoin.
 
@@ -34,7 +34,7 @@ Guía paso a paso para incorporar empresas que acepten pagos con Bitcoin.
 
 ---
 
-### 👤 Incorporación de usuarios
+###  Incorporación de usuarios
 
 Guía sencilla y clara para usuarios primerizos de Bitcoin.
 
@@ -47,7 +47,7 @@ Guía sencilla y clara para usuarios primerizos de Bitcoin.
 
 ---
 
-### 🛠 Filosofía de mantenimiento
+###  Filosofía de mantenimiento
 
 Notas sobre cómo se mantiene y actualiza este repositorio a lo largo del tiempo.
 
@@ -87,4 +87,5 @@ Evita intencionalmente:
 Todo el contenido de este repositorio se publica bajo **CC0 (Dominio Público)**.
 
 **Úsalo libremente. Adáptalo a tu comunidad.**
+
 
