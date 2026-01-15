@@ -29,8 +29,6 @@ Guía paso a paso para incorporar empresas que acepten pagos con Bitcoin.
 - Seguridad básica  
 - Construcción de confianza  
 
-**Ubicación:**  
-`merchant-adoption/merchant-onboarding-guide.md`
 
 ---
 
@@ -85,6 +83,7 @@ Evita intencionalmente:
 Todo el contenido de este repositorio se publica bajo **CC0 (Dominio Público)**.
 
 **Úsalo libremente. Adáptalo a tu comunidad.**
+
 
 
 
